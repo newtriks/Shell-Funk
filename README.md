@@ -4,7 +4,7 @@ Alfred Preferences > Features > Terminal / Shell
 _These are examples and rough around the edges, I cannot take responisbility for 
 adverse results whilst running these scripts__
 
-**Example AS3 project generation run on: Mac OS X**
+**Example AS3 project generation run on: Mac OS X and uses Project Sprouts V0.7**
 
 * Title: Sprouts AS3 Project
 * Description: Create a new AS3 project with Project Sprouts
